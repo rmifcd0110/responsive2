@@ -20,6 +20,7 @@ body {
 .main > nav,
 .main > aside {
     flex: 0 0 20vw;
+    background-color: #e9e9fc;
 }
 
 header,
