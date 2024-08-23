@@ -13,6 +13,14 @@ body {
     flex-direction: row;
     flex: 1;
 }
+.main > article {
+    flex: 1;
+}
+
+.main > nav,
+.main > aside {
+    flex: 0 0 20vw;
+}
 
 header,
 footer {
